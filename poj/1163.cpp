@@ -25,9 +25,12 @@ int main() {
 /*
     for (i = 0; i < N; i++)
         b[N - 1][i] = a[N - 1][i];
-    for (i = N - 2; i >= 0; i--)
-        for (j = 0; j <= i; j++)
-            b[i][j] = a[i][j] + (temp = (b[i + 1][j] > b[i + 1][j + 1]) ? b[i + 1][j] : b[i + 1][j + 1]);
+    for (i = N - 2; i >= 0; i--) {
+        for (j = 0; j <= i; j++) {
+            temp = (b[i + 1][j] > b[i + 1][j + 1]) ? b[i + 1][j] : b[i + 1][j + 1];
+            b[i][j] = a[i][j] + temp;
+        }
+    }
     printf("%d\n", b[0][0]);
 */
     b[0][0] = a[0][0];
