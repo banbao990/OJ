@@ -20,15 +20,17 @@
 - poj-[1](./poj/1.cpp) -
 - poj-[1](./poj/1.cpp) -
 
-
 ### 1.2 字符串处理
 - poj-[1503](./poj/1503.cpp) - Integer Inquiry
   - 大整数加法
-
+- poj-[2389](./poj/2389.cpp) - Bull Math
+  - 大整数乘法
+  
 ### 1.3 枚举
 - poj-[1006](./poj/1006.cpp) - Biorhythms
 - poj-[1054](./poj/1054.cpp) - The Troublesome Frog
-
+- poj-[1753](./poj/1753.cpp) - Flip Game
+- 
 ### 1.4 模拟
 - poj-[1099](./poj/1099.cpp) - Square Ice
 - poj-[1207](./poj/1207.cpp) - The 3n + 1 problem
@@ -46,6 +48,7 @@
 - poj-[1088](./poj/1088.cpp) - 滑雪
 - poj-[1321](./poj/1321.cpp) - 棋盘问题
 - poj-[1564](./poj/1564.cpp) - Sum It Up
+- poj-[1664](./poj/1564.cpp) - 放苹果
 
 
 ### 1.7 BFS广搜
@@ -66,6 +69,7 @@
 
 ### 1.12 数列问题
 - poj-[1338](./poj/1338.cpp) - Ugly Numbers
+- poj-[2247](./poj/2247.cpp) - Humble Numbers
 
 ## 2 数据结构与算法
 
