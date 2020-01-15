@@ -16,9 +16,9 @@
 - poj-[1493](./poj/1493.cpp) - Machined Surfaces
 - poj-[1844](./poj/1844.cpp) - Sum
 - poj-[2017](./poj/2017.cpp) - Speed Limit
+- poj-[2521](./poj/2521.cpp) - How much did the businessman lose
 - poj-[3094](./poj/3094.cpp) - Quicksum
 - poj-[3299](./poj/3299.cpp) - Humidex
-- poj-[1](./poj/1.cpp) -
 - poj-[1](./poj/1.cpp) -
 
 ### 1.2 字符串处理
@@ -45,6 +45,10 @@
 - poj-[1089](./poj/1089.cpp) - Intervals
   - 排序 + 贪心
 - poj-[2159](./poj/2159.cpp) - Ancient Cipher
+- poj-[2299](./poj/2299.cpp) - Ultra-QuickSort
+  - 归并排序求逆序对
+- poj-[2388](./poj/2388.cpp) - Who's in the Middle
+  - 求中位数
 
 ### 1.6 DFS深搜 + 剪枝
 - poj-[1010](./poj/1010.cpp) - STAMPS
@@ -60,8 +64,8 @@
 - poj-[2000](./poj/2000.cpp) - Gold Coins
 - poj-[2083](./poj/2083.cpp) - Fractal
 - poj-[2262](./poj/2262.cpp) - Goldbach's Conjecture
+- poj-[2488](./poj/2488.cpp) - A Knight's Journey
 - openjudge-[2787](./openjudge/2787.cpp) - 算24
-- 
 
 ### 1.7 BFS广搜
 
@@ -69,6 +73,7 @@
 - poj-[1163](./poj/1163.cpp) - The Triangle
 - poj-[1953](./poj/1953.cpp) - World Cup Noise
   - 双函数
+- poj-[2533](./poj/2533.cpp) - Longest Ordered Subsequence
 
 
 ### 1.9 Joseph(约瑟夫问题)
@@ -79,6 +84,7 @@
 - poj-[1017](./poj/1017.cpp) - Packets
 - poj-[1230](./poj/1230.cpp) - Pass-Muraille
 - poj-[1328](./poj/1328.cpp) - Radar Installation
+- poj-[2287](./poj/2287.cpp) - Tian Ji -- The Horse Racing
 
 ### 1.11 威佐夫博弈
 - poj-[1067](./poj/1067.cpp) - 取石子游戏
@@ -86,6 +92,7 @@
 ### 1.12 数列问题(一类动态规划)
 - poj-[1338](./poj/1338.cpp) - Ugly Numbers
 - poj-[2247](./poj/2247.cpp) - Humble Numbers
+- poj-[2545](./poj/2545.cpp) - Hamming Problem
 
 ## 2 数据结构与算法
 
