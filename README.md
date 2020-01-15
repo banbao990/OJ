@@ -8,9 +8,9 @@
 - poj-[1003](./poj/1003.cpp) - Hangover
 - poj-[1004](./poj/1004.cpp) - Financial Management
 - poj-[1005](./poj/1005.cpp) - I Think I Need a Houseboat
-  - ceil 函数向上取整 
+    - ceil 函数向上取整 
 - poj-[1008](./poj/1008.cpp) - Maya Calendar
-  - 比较烦
+    - 比较烦
 - poj-[1079](./poj/1079.cpp) - Ratio
 - poj-[1083](./poj/1083.cpp) - Moving Tables
 - poj-[1477](./poj/1477.cpp) - Box of Bricks
@@ -27,7 +27,7 @@
 - poj-[3749](./poj/3749.cpp) - 破译密码
 - poj-[3751](./poj/3751.cpp) - 时间日期格式转换 
 - poj-[3752](./poj/3752.cpp) - 字母旋转游戏
-  - 数组边界控制, 蛇形填充数组
+    - 数组边界控制, 蛇形填充数组
 - poj-[3980](./poj/3980.cpp) - 取模运算
 - poj-[](./poj/.cpp) - 
 - poj-[](./poj/.cpp) - 
@@ -38,11 +38,11 @@
 ### 1.2 字符串处理
 ---
 - poj-[1503](./poj/1503.cpp) - Integer Inquiry
-  - 大整数加法
+    - 大整数加法
 - poj-[2389](./poj/2389.cpp) - Bull Math
-  - 大整数乘法
+    - 大整数乘法
 - poj-[2845](./poj/2845.cpp) - 01000001
-  - 大整数加法(二进制加法) 
+    - 大整数加法(二进制加法) 
 - poj-[3981](./poj/3981.cpp) - 字符串替换
 ---
 ### 1.3 枚举
@@ -60,21 +60,22 @@
 ### 1.5 排序
 ---
 - poj-[1007](./poj/1007.cpp) - DNA Sorting
-  - 归并排序求逆序对
+    - 归并排序求逆序对
 - poj-[1089](./poj/1089.cpp) - Intervals
-  - 排序 + 贪心
+    - 排序 + 贪心
 - poj-[2159](./poj/2159.cpp) - Ancient Cipher
 - poj-[2299](./poj/2299.cpp) - Ultra-QuickSort
-  - 归并排序求逆序对
+    - 归并排序求逆序对
 - poj-[2388](./poj/2388.cpp) - Who's in the Middle
-  - 求中位数
+    - 求中位数
 ---
 ### 1.6 DFS深搜 + 回溯 + 剪枝
 ---
 - poj-[1010](./poj/1010.cpp) - STAMPS
 - poj-[1011](./poj/1011.cpp) - Sticks
-  - 剪枝比较复杂
+    - 剪枝比较复杂
 - poj-[1088](./poj/1088.cpp) - 滑雪
+- poj-[1164](./poj/1164.cpp) - The Castle
 - poj-[1321](./poj/1321.cpp) - 棋盘问题
 - poj-[1564](./poj/1564.cpp) - Sum It Up
 - poj-[1651](./poj/1651.cpp) - Multiplication Puzzle
@@ -86,15 +87,17 @@
 - poj-[2262](./poj/2262.cpp) - Goldbach's Conjecture
 - poj-[2488](./poj/2488.cpp) - A Knight's Journey
 - poj-[2676](./poj/2676.cpp) - Sudoku
-  - 数独
+    - 数独
 - poj-[3984](./poj/3984.cpp) - 迷宫问题
 ---
 - openjudge-[2698](./openjudge/2698.cpp) - 八皇后问题
 - openjudge-[2748](./openjudge/2748.cpp) - 全排列
 - openjudge-[2754](./openjudge/2754.cpp) - 八皇后问题
 - openjudge-[2787](./openjudge/2787.cpp) - 算24
-- openjudge-[](./openjudge/.cpp) - 
-- openjudge-[](./openjudge/.cpp) - 
+- openjudge-[4123](./openjudge/4123.cpp) - 马走日
+- openjudge-[4147](./openjudge/4147.cpp) - 汉诺塔问题(Hanoi)
+- openjudge-[4017](./openjudge/4017.cpp) - 爬楼梯
+    - 递推问题  
 ---
 ### 1.7 BFS广搜
 ---
@@ -102,10 +105,10 @@
 ---
 - poj-[1163](./poj/1163.cpp) - The Triangle
 - poj-[1953](./poj/1953.cpp) - World Cup Noise
-  - 双函数
+    - 双函数
 - poj-[2533](./poj/2533.cpp) - Longest Ordered Subsequence
 - poj-[2663](./poj/2663.cpp) - Tri Tiling
-  - 双函数
+    - 双函数
 - poj-[3783](./poj/3783.cpp) - Balls
 ---
 ### 1.9 Joseph(约瑟夫问题)
