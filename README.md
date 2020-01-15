@@ -17,9 +17,14 @@
 - poj-[1844](./poj/1844.cpp) - Sum
 - poj-[2017](./poj/2017.cpp) - Speed Limit
 - poj-[2521](./poj/2521.cpp) - How much did the businessman lose
+- poj-[2636](./poj/2636.cpp) - Electrical Outlets
+- poj-[2739](./poj/2739.cpp) - Sum of Consecutive Prime Numbers
+- poj-[3006](./poj/3006.cpp) - Dirichlet's Theorem on Arithmetic Progressions
+- poj-[3086](./poj/3086.cpp) - Triangular Sums
 - poj-[3094](./poj/3094.cpp) - Quicksum
 - poj-[3299](./poj/3299.cpp) - Humidex
-- poj-[1](./poj/1.cpp) -
+- poj-[](./poj/.cpp) - 
+
 
 ### 1.2 字符串处理
 - poj-[1503](./poj/1503.cpp) - Integer Inquiry
@@ -65,7 +70,11 @@
 - poj-[2083](./poj/2083.cpp) - Fractal
 - poj-[2262](./poj/2262.cpp) - Goldbach's Conjecture
 - poj-[2488](./poj/2488.cpp) - A Knight's Journey
+- poj-[2676](./poj/2676.cpp) - Sudoku
+  - 数独
+  
 - openjudge-[2787](./openjudge/2787.cpp) - 算24
+
 
 ### 1.7 BFS广搜
 
@@ -74,7 +83,8 @@
 - poj-[1953](./poj/1953.cpp) - World Cup Noise
   - 双函数
 - poj-[2533](./poj/2533.cpp) - Longest Ordered Subsequence
-
+- poj-[2663](./poj/2663.cpp) - Tri Tiling
+  - 双函数
 
 ### 1.9 Joseph(约瑟夫问题)
 - poj-[1012](./poj/1012.cpp) - Joseph
@@ -93,6 +103,10 @@
 - poj-[1338](./poj/1338.cpp) - Ugly Numbers
 - poj-[2247](./poj/2247.cpp) - Humble Numbers
 - poj-[2545](./poj/2545.cpp) - Hamming Problem
+- poj-[2591](./poj/2591.cpp) - Set Definition
+
+### 1.13 链表
+- poj-[3125](./poj/3125.cpp) - Printer Queue
 
 ## 2 数据结构与算法
 
