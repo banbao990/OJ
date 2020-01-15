@@ -29,12 +29,9 @@
 - poj-[3752](./poj/3752.cpp) - 字母旋转游戏
     - 数组边界控制, 蛇形填充数组
 - poj-[3980](./poj/3980.cpp) - 取模运算
-- poj-[](./poj/.cpp) - 
-- poj-[](./poj/.cpp) - 
-- poj-[](./poj/.cpp) - 
 ---
-
-
+- openjudge-[3670](./openjudge/3670.cpp) - 计算鞍点
+---
 ### 1.2 字符串处理
 ---
 - poj-[1503](./poj/1503.cpp) - Integer Inquiry
@@ -92,11 +89,12 @@
 ---
 - openjudge-[2698](./openjudge/2698.cpp) - 八皇后问题
 - openjudge-[2748](./openjudge/2748.cpp) - 全排列
+- openjudge-[2749](./openjudge/2749.cpp) - 分解因数
 - openjudge-[2754](./openjudge/2754.cpp) - 八皇后问题
 - openjudge-[2787](./openjudge/2787.cpp) - 算24
+- openjudge-[4017](./openjudge/4017.cpp) - 爬楼梯
 - openjudge-[4123](./openjudge/4123.cpp) - 马走日
 - openjudge-[4147](./openjudge/4147.cpp) - 汉诺塔问题(Hanoi)
-- openjudge-[4017](./openjudge/4017.cpp) - 爬楼梯
     - 递推问题  
 ---
 ### 1.7 BFS广搜
@@ -144,6 +142,8 @@
 ---
 ### 1.14 二分
 - poj-[3273](./poj/3273.cpp) - Monthly Expense
+---
+- openjudge-[3470](./openjudge/3470.cpp) - 整理扑克牌
 ---
 ## 2 数据结构与算法
 ### 2.1 图算法
