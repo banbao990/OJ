@@ -23,7 +23,15 @@
 - poj-[3086](./poj/3086.cpp) - Triangular Sums
 - poj-[3094](./poj/3094.cpp) - Quicksum
 - poj-[3299](./poj/3299.cpp) - Humidex
+- poj-[3749](./poj/3749.cpp) - 破译密码
+- poj-[3751](./poj/3751.cpp) - 时间日期格式转换 
+- poj-[3752](./poj/3752.cpp) - 字母旋转游戏
+  - 数组边界控制, 蛇形填充数组
+- poj-[3980](./poj/3980.cpp) - 取模运算
 - poj-[](./poj/.cpp) - 
+- poj-[](./poj/.cpp) - 
+- poj-[](./poj/.cpp) - 
+
 
 
 ### 1.2 字符串处理
@@ -33,7 +41,8 @@
   - 大整数乘法
 - poj-[2845](./poj/2845.cpp) - 01000001
   - 大整数加法(二进制加法) 
-  
+- poj-[3981](./poj/3981.cpp) - 字符串替换
+
 ### 1.3 枚举
 - poj-[1006](./poj/1006.cpp) - Biorhythms
 - poj-[1054](./poj/1054.cpp) - The Troublesome Frog
@@ -72,7 +81,8 @@
 - poj-[2488](./poj/2488.cpp) - A Knight's Journey
 - poj-[2676](./poj/2676.cpp) - Sudoku
   - 数独
-  
+- poj-[3984](./poj/3984.cpp) - 迷宫问题
+
 - openjudge-[2787](./openjudge/2787.cpp) - 算24
 
 
@@ -85,16 +95,21 @@
 - poj-[2533](./poj/2533.cpp) - Longest Ordered Subsequence
 - poj-[2663](./poj/2663.cpp) - Tri Tiling
   - 双函数
+- poj-[3783](./poj/3783.cpp) - Balls
 
 ### 1.9 Joseph(约瑟夫问题)
 - poj-[1012](./poj/1012.cpp) - Joseph
 - poj-[2244](./poj/2244.cpp) - Eeny Meeny Moo
+- poj-[3517](./poj/3517.cpp) - And Then There Was One
 
 ### 1.10 贪心
 - poj-[1017](./poj/1017.cpp) - Packets
 - poj-[1230](./poj/1230.cpp) - Pass-Muraille
 - poj-[1328](./poj/1328.cpp) - Radar Installation
 - poj-[2287](./poj/2287.cpp) - Tian Ji -- The Horse Racing
+- poj-[3253](./poj/3253.cpp) - Fence Repair
+- poj-[3750](./poj/3750.cpp) - 小孩报数问题
+
 
 ### 1.11 威佐夫博弈
 - poj-[1067](./poj/1067.cpp) - 取石子游戏
@@ -107,6 +122,10 @@
 
 ### 1.13 链表
 - poj-[3125](./poj/3125.cpp) - Printer Queue
+
+### 1.14 二分
+- poj-[3273](./poj/3273.cpp) - Monthly Expense
+
 
 ## 2 数据结构与算法
 
