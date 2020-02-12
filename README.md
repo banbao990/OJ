@@ -30,6 +30,7 @@
     - 数组边界控制, 蛇形填充数组
 - poj-[3980](./poj/3980.cpp) - 取模运算
 ---
+- openjudge-[2733](./openjudge/2733.py)  - 判断闰年
 - openjudge-[3670](./openjudge/3670.cpp) - 计算鞍点
 ---
 ### 1.2 字符串处理
