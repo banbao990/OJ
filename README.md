@@ -103,8 +103,18 @@
 ### 1.8 DP动态规划
 ---
 - poj-[1163](./poj/1163.cpp) - The Triangle
+- poj-[1651](./poj/1651.cpp) - Multiplication Puzzle
+    - 矩阵链问题
+    - [递归实现](./poj/1651-1.cpp)
+    - [迭代实现](./poj/1651-2.cpp)
+- poj-[1080](./poj/1080.cpp) - Human Gene Functions
+    - 序列匹配
+    - 最长公共子序列的改版
 - poj-[1953](./poj/1953.cpp) - World Cup Noise
     - 双函数
+- poj-[2479](./poj/2479.cpp) - Maximum sum
+    - 最大连续子段和
+    - 求最大的两段不交的连续子段和
 - poj-[2533](./poj/2533.cpp) - Longest Ordered Subsequence
 - poj-[2663](./poj/2663.cpp) - Tri Tiling
     - 双函数
@@ -122,6 +132,8 @@
 - poj-[1230](./poj/1230.cpp) - Pass-Muraille
 - poj-[1328](./poj/1328.cpp) - Radar Installation
 - poj-[2287](./poj/2287.cpp) - Tian Ji -- The Horse Racing
+- poj-[2376](./poj/2376.cpp) - Cleaning Shifts
+    - 选择最少的区间覆盖整个线段
 - poj-[3253](./poj/3253.cpp) - Fence Repair
 - poj-[3750](./poj/3750.cpp) - 小孩报数问题
 
@@ -146,6 +158,30 @@
 ---
 - openjudge-[3470](./openjudge/3470.cpp) - 整理扑克牌
 ---
+### 1.15 其他搜索方法
+- poj-1077 - Eight
+    - 八数码问题
+    - [TBFS](./poj/1077-1.cpp)实现
+        - 双向广搜
+    - [A*(A star)](./poj/1077-2.cpp)实现
+        - A star 算法
+- poj-[1379](./poj/1379.cpp) - Run Away
+    - 模拟退火
+    - 在矩形中找到离给定的一组点最小距离最大值的点
+- poj-[1568](./poj/1568.cpp)
+    - min-max(极大极小搜索)
+    - 找到必胜的一步, 井字棋(4\*4)
+- poj-[2286](./poj/2286.cpp) - The Rotation Game
+    - ID(迭代加深搜索)
+- poj-[2420](./poj/2420.cpp) - A Star not a Tree?
+    - 模拟退火
+    - 找到离给定的一组点距离之和最小的点
+- poj-[3239](./poj/3239.cpp) - Solution to the n Queens Puzzle
+    - n皇后问题
+    - 爬山法(陷入局部极值后重启)
+
+
 ## 2 数据结构与算法
+
 ### 2.1 图算法
 ---
