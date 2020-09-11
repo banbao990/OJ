@@ -48,7 +48,7 @@
 - poj-[1006](./poj/1006.cpp) - Biorhythms
 - poj-[1054](./poj/1054.cpp) - The Troublesome Frog
 - poj-[1753](./poj/1753.cpp) - Flip Game
---- 
+---
 ### 1.4 模拟
 ---
 - poj-[1099](./poj/1099.cpp) - Square Ice
@@ -180,6 +180,12 @@
     - n皇后问题
     - 爬山法(陷入局部极值后重启)
 
+### 1.16 单调栈
+
++ poj-[2529](./poj/2529.cpp) -  Largest Rectangle in a Histogram
+    + 最大的矩形，每次退栈时计算最大的矩形面积
+        + 注意矩形的边必须都是直方图的边
+    + 单调递增栈
 
 ## 2 数据结构与算法
 
